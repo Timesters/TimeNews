@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Anime Page</title>
+	<link rel="stylesheet" href="public/bootstraps/css/bootstrap.css">
+	<link rel="stylesheet" href="public/font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="public/theme/css/main.css">
+	<!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+</head>
+<body>
+	<div class="container">
+		<nav class="navbar navbar-default">
+	    	<div class="navbar-header">
+	      		<a class="navbar-brand" href="home.php">
+	      			<img src="Image/TimeGate Remove BG.png" alt="Logo Timagate" class="main-logo">
+	      		</a>
+	    	</div>
+		    <form class="navbar-form navbar-left">
+		      	<div class="form-group">
+		        	<input type="text" class="form-control" placeholder="Berita apa yang ingin Anda Baca hari ini?">
+		      	</div>
+		      	<button type="submit" class="btn btn-default">Find</button>
+		    </form>
+    		<ul class="nav navbar-nav navbar-right">
+				<li><a href="login.php">Masuk</a></li>
+				<li><a href="signup.php">Sign Up</a></li>
+      			<li class="nsign"><a href="#"><i class="fa fa-list"></i></a></li>
+    		</ul>
+    		<ul class="nav navbar-nav navbar-primary text-center">
+				<li><a href="home.php">Home</a></li>
+				<li><a href="otaku.php">Otaku</a></li>
+				<li><a href="event.php">Event</a></li>
+				<li><a href="anime.php">Anime</a></li>
+    		</ul>
+		</nav>
+	</div>
+
+	<div class="container content-wrapper">
+		<!-- Advertising 728x90 -->
+		<div class="col-xs-12">
+			<div class="adsvertising">
+				<img src="Image/Advertise 780x90.png" alt="Ads 780x90">
+			</div>
+		</div>
+		<!-- End Ads -->
+		<!-- Single Content -->
+		<div class="col-xs-8 single-content">
+			<div class="content-breadcrumb">
+				<ul class="breadcrumb">
+				    <li><a href="home.php">Home</a></li>
+				    <li><a href="otaku.php">Otaku</a></li>
+				    <li><a href="event.php">Event</a></li>
+				</ul>
+			</div>
+			<h1>Film Anime Bocchi The Rock Ungkap Trailer Terbaru, Umumkan Tanggal Tayang Filmnya!</h1>
+			<div class="author-box">
+				<div class="media">
+				  	<div class="media-left media-middle">
+				    	<a href="#">
+				      		<img class="media-object img-circle" src="Image/Bocchi The Rock.jpg" alt="..." width="40">
+				    	</a>
+				  	</div>
+				  	<div class="media-body">
+				    	<a class="media-heading">TIMEGATE</a> <br>
+				   		<small>26 Mar 2024, 22:00 WIB</small>
+				  	</div>
+				</div>
+				<div class="sharethis-inline-share-buttons"></div>
+			</div>
+			<article class="content-news">
+				<figure>
+				  	<img src="Image/Bocchi The Rock.jpg" alt="" class="img-responsive">
+				  	<figcaption>Poster Bocchi The Rock The Movie.</figcaption>
+				</figure>
+				<p>Ingin berteman dan tampil live dengan band, Hitori "Bocchi" Gotou yang kesepian dan cemas secara sosial mencurahkan waktunya untuk bermain gitar. Pada hari yang menentukan, Bocchi bertemu dengan drummer Nijika Ijichi, yang mengundangnya untuk bergabung dengan Kessoku Band ketika gitaris mereka, Ikuyo Kita, melarikan diri sebelum pertunjukan pertama mereka. Segera setelah itu, Bocchi bertemu rekan band terakhirnya—bassis keren Ryou Yamada. Meskipun penampilan pertama mereka bersama-sama di bawah standar, para gadis ini merasa diberdayakan oleh kecintaan mereka terhadap musik, dan mereka segera bergabung kembali dengan Kita. Menemukan kebahagiaan dalam tampil, Bocchi dan teman-teman bandnya menaruh hati mereka untuk berkembang sebagai musisi sambil memanfaatkan masa-masa sekolah menengah mereka dengan sebaik-baiknya.</p>
+				<div class="col-xs-6 box-sidebar pull-right">
+					<div class="box-category-1">
+						<h3 class="sidebar-heading">Baca Juga</h3>
+						<div class="media-news">
+							<div class="media-item">
+								<div class="media-image">
+									<a href="https://myanimelist.net/featured/2337/One-Punch_Man_Returns_to_Grand_Summoners_in_a_Powered-up_Collaboration" target="_blank"><img src="Image/Artikel 9.png" alt="" class="img-responsive"></a>
+								</div>
+								<div class="media-content">
+									<h4 class="media-title"><a href="https://myanimelist.net/featured/2337/One-Punch_Man_Returns_to_Grand_Summoners_in_a_Powered-up_Collaboration" target="_blank">One-Punch Man Returns to Grand Summoners in a Powered-up Collaboration</a></h4>
+								</div>
+							</div>
+							<div class="media-item">
+								<div class="media-image">
+									<a href="https://myanimelist.net/featured/2387/ROG_x_EVANGELION__Where_Gaming_Meets_the_Power_of_EVA-02" target="_blank"><img src="Image/Artikel 10.png" alt="" class="img-responsive"></a>
+								</div>
+								<div class="media-content">
+									<h4 class="media-title"><a href="https://myanimelist.net/featured/2387/ROG_x_EVANGELION__Where_Gaming_Meets_the_Power_of_EVA-02" target="_blank">ROG x EVANGELION: Where Gaming Meets the Power of EVA-02</a></h4>
+								</div>
+							</div>
+							<div class="media-item">
+								<div class="media-image">
+									<a href="https://myanimelist.net/featured/2383/Top_12_Finalists_Which_web_novel_do_you_want_to_read_as_manga" target="_blank"><img src="Image/Artikel 11.png" alt="" class="img-responsive"></a>
+								</div>
+								<div class="media-content">
+									<h4 class="media-title"><a href="https://myanimelist.net/featured/2383/Top_12_Finalists_Which_web_novel_do_you_want_to_read_as_manga" target="_blank">Top 12 Finalists! Which web novel do you want to read as manga?</a></h4>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<p>Urutan pembuka film pertama menampilkan set animasi baru yang dibuat untuk lagu baru Kessoku Band "Tsukinami ni Kagayaki" (Sparkle as Usual). Ai Higuchi menulis liriknya, -otoha- menyusun lagunya, dan Ritsuo Mitsui mengaransemen lagu tersebut. FIlm pertama seri anime ini diberi judul Bocchi the Rock! Re: dan film keduanya diberi judul Bocchi the Rock! Re: Re:.
+					Anime ini merupakan hasil produksi dari Clover Works yang ditayangkan pada Oktober hingga Desember 2022. Anime Bocchi The Rock! sendiri merupakan hasil adaptasi dari manga karya Aki Hamaji dengan judul yang sama, dimana ceritanya mengikuti kisah Hito Goto (alias Bocchi), seorang gadis SMA yang introvert dan lebih banyak menghabiskan waktunya sendirian dan hatinya hanya terletak pada gitar kesayangannya. 
+					Tidak banyak yang dia lakukan setiap harinya, dia hanya menyukai memetik gitarnya sendiri di rumah. Hingga pada akhirnya Bocchi bertemu dengan Nijika Ijichi seorang wanita yang sedang mencari seorang gitaris untuk bandnya, “Kessoku Band”. Dari sanalah kehidupan Bocchi mulai berubah dan dia mulai bertemu banyak orang dah bahkan memulai pertunjukkan pertamanya sebagai gitaris.</p>
+				<p>Jika ingin membaca artikel lebih lengkap bisa klik <a href="https://duniagames.co.id/discover/article/film-anime-bocchi-the-rock-ungkap-trailer-terbaru-umumkan-tanggal-tayang-filmnya?isLogin=amp%2Fen%3FisLogin%3Damp" target="_blank">disini</a></p>
+			</article>
+
+			<div class="author-box">
+				<div class="media">
+				  	<div class="media-left media-middle">
+				    	<a href="#">
+				      		<img class="media-object img-circle" src="Image/AnimeStuff LOGO.png" alt="..." width="40">
+				    	</a>
+				  	</div>
+				  	<div class="media-body">
+				    	<a class="media-heading">TIMEGATE</a> <br>
+				   		<small>26 Mar 2024, 22:00 WIB</small>
+				  	</div>
+				</div>
+				<div class="sharethis-inline-share-buttons"></div>
+			</div>
+			<section class="box-comments">
+				<button class="btn btn-block btn-primary"><i class="fa fa-comments"></i> Tulis Komentar</button>
+			</section>
+			<div class="advertising">
+				<img src="Image/Advertise 780x90.png" alt="Ads 600x90" class="img-responsive">
+			</div>
+			<!-- BERITA TERKAIN -->
+			<section class="related-content">
+				<h4 class="media-title">UPCOMING ANIME</h4>
+				<div class="media-news c50">
+					<div class="media-item">
+						<div class="media-image">
+							<a href="https://myanimelist.net/anime/54865/Blue_Lock_2nd_Season" target="_blank"><img src="Image/Blue lock.jpg" alt="" class="img-responsive"></a>
+						</div>
+						<div class="media-content">
+							<h4 class="media-title"><a href="https://myanimelist.net/anime/54865/Blue_Lock_2nd_Season" target="_blank">Second season of Blue Lock.</a></h4>
+						</div>
+					</div>
+					<div class="media-item">
+						<div class="media-image">
+							<a href="https://myanimelist.net/anime/54857/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_3rd_Season" target="_blank"><img src="Image/rezero.jpg" alt="" class="img-responsive"></a>
+						</div>
+						<div class="media-content">
+							<h4 class="media-title"><a href="https://myanimelist.net/anime/54857/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_3rd_Season" target="_blank">Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season</a></h4>
+						</div>
+					</div>
+					<div class="media-item">
+						<div class="media-image">
+							<a href="https://myanimelist.net/anime/56732/Sekai_Saikou_no_Ansatsusha_Isekai_Kizoku_ni_Tensei_suru_2nd_Season" target="_blank"><img src="Image/Sekai saikyou.jpg" alt="" class="img-responsive"></a>
+						</div>
+						<div class="media-content">
+							<h4 class="media-title"><a href="https://myanimelist.net/anime/56732/Sekai_Saikou_no_Ansatsusha_Isekai_Kizoku_ni_Tensei_suru_2nd_Season" target="_blank">Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru 2nd Season</a></h4>
+						</div>
+					</div>
+					<div class="media-item">
+						<div class="media-image">
+							<a href="https://myanimelist.net/anime/54744/Tokidoki_Bosotto_Russia-go_de_Dereru_Tonari_no_Alya-san" target="_blank"><img src="Image/tokidoki.jpg" alt="" class="img-responsive"></a>
+						</div>
+						<div class="media-content">
+							<h4 class="media-title"><a href="https://myanimelist.net/anime/54744/Tokidoki_Bosotto_Russia-go_de_Dereru_Tonari_no_Alya-san" target="_blank">Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san
+								(Alya Sometimes Hides Her Feelings in Russian)</a></h4>
+						</div>
+					</div>
+				</div>
+				<div class="media-news c50">
+					<div class="media-item">
+						<div class="media-image">
+							<a href="https://myanimelist.net/anime/56876/Otonari_no_Tenshi-sama_ni_Itsunomanika_Dame_Ningen_ni_Sareteita_Ken_2nd_Season" target="_blank"><img src="Image/otonashi.jpg" alt="" class="img-responsive"></a>
+						</div>
+						<div class="media-content">
+							<h4 class="media-title"><a href="https://myanimelist.net/anime/56876/Otonari_no_Tenshi-sama_ni_Itsunomanika_Dame_Ningen_ni_Sareteita_Ken_2nd_Season" target="_blank">Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season</a></h4>
+						</div>
+					</div>
+					<div class="media-item">
+						<div class="media-image">
+							<a href="https://myanimelist.net/anime/56538/Kimi_ni_Todoke_3rd_Season" target="_blank"><img src="Image/kiminitodoke.jpg" alt="" class="img-responsive"></a>
+						</div>
+						<div class="media-content">
+							<h4 class="media-title"><a href="https://myanimelist.net/anime/56538/Kimi_ni_Todoke_3rd_Season" target="_blank">Kimi ni Todoke 3rd Season
+								(Kimi ni Todoke: From Me to You Season 3)</a></h4>
+						</div>
+					</div>
+					<div class="media-item">
+						<div class="media-image">
+							<a href="https://myanimelist.net/anime/50306/Seirei_Gensouki_2" target="_blank"><img src="Image/seirei.jpg" alt="" class="img-responsive"></a>
+						</div>
+						<div class="media-content">
+							<h4 class="media-title"><a href="https://myanimelist.net/anime/50306/Seirei_Gensouki_2" target="_blank">Seirei Gensouki 2
+								(Seirei Gensouki: Spirit Chronicles Season 2)</a></h4>
+						</div>
+					</div>
+					<div class="media-item">
+						<div class="media-image">
+							<a href="https://myanimelist.net/anime/55791/Oshi_no_Ko_2nd_Season" target="_blank"><img src="Image/oshinoko.jpg" alt="" class="img-responsive"></a>
+						</div>
+						<div class="media-content">
+							<h4 class="media-title"><a href="https://myanimelist.net/anime/55791/Oshi_no_Ko_2nd_Season" target="_blank">"Oshi no Ko" 2nd Season
+								[Oshi No Ko] Season 2</a></h4>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- REKOMENDASI -->
+			<div class="box-thumbnail">
+				<h3 class="featured-heading"> TOP ANIME MOVIES </h3> 
+				<div class="box-category-1 c3">
+					<a href="https://myanimelist.net/anime/28851/Koe_no_Katachi" target="_blank"><img src="Image/Koe no katachi (movie).jpg" alt="" class="img-responsive"></a>
+					<div class="item-featured">
+						<h4 class="item-heading"><a href="https://myanimelist.net/anime/28851/Koe_no_Katachi" target="_blank">Koe no Katachi (A Silent Voice)</a></h4>
+					</div>
+				</div>
+				<div class="box-category-1 c3">
+					<a href="https://myanimelist.net/anime/32281/Kimi_no_Na_wa" target="_blank"><img src="Image/kimi no nawa (movie).jpg" alt="" class="img-responsive"></a>
+					<div class="item-featured">
+						<h4 class="item-heading"><a href="https://myanimelist.net/anime/32281/Kimi_no_Na_wa" target="_blank">Kimi no Na wa (Your Name)</a></h4>
+					</div>
+				</div>
+				<div class="box-category-1 c3">
+					<a href="https://myanimelist.net/anime/52742/Haikyuu_Movie__Gomisuteba_no_Kessen" target="_blank"><img src="Image/Haikyuu (movie).jpg" alt="" class="img-responsive"></a>
+					<div class="item-featured">
+						<h4 class="item-heading"><a href="https://myanimelist.net/anime/52742/Haikyuu_Movie__Gomisuteba_no_Kessen" target="_blank"">Haikyuu!! Movie: Gomisuteba no Kessen (Haikyu!! Movie: The Dumpster Battle)/a></h4>
+					</div>
+				</div>
+				<div class="box-category-1 c3">
+					<a href="https://myanimelist.net/anime/38329/Seishun_Buta_Yarou_wa_Yumemiru_Shoujo_no_Yume_wo_Minai" target="_blank"><img src="Image/Buta yaroi (movie).jpg" alt="" class="img-responsive"></a>
+					<div class="item-featured">
+						<h4 class="item-heading"><a href="https://myanimelist.net/anime/38329/Seishun_Buta_Yarou_wa_Yumemiru_Shoujo_no_Yume_wo_Minai" target="_blank">Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai(Rascal Does Not Dream of a Dreaming Girl)</a></h4>
+					</div>
+				</div>
+				<div class="box-category-1 c3">
+					<a href="https://myanimelist.net/anime/40456/Kimetsu_no_Yaiba_Movie__Mugen_Ressha-hen" target="_blank"><img src="Image/kimetsu (movie).jpg" alt="" class="img-responsive"></a>
+					<div class="item-featured">
+						<h4 class="item-heading"><a href="https://myanimelist.net/anime/40456/Kimetsu_no_Yaiba_Movie__Mugen_Ressha-hen" target="_blank">Kimetsu no Yaiba Movie: Mugen Ressha-hen
+							(Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train)</a></h4>
+					</div>
+				</div>
+				<div class="box-category-1 c3">
+					<a href="https://myanimelist.net/anime/36098/Kimi_no_Suizou_wo_Tabetai" target="_blank"><img src="Image/pancreas (movie).jpg" alt="" class="img-responsive"></a>
+					<div class="item-featured">
+						<h4 class="item-heading"><a href="https://myanimelist.net/anime/36098/Kimi_no_Suizou_wo_Tabetai" target="_blank">Kimi no Suizou wo Tabetai
+							(I Want To Eat Your Pancreas)</a></h4>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- End Topik Content -->
+		<div class="col-xs-4 box-sidebar">
+			<div class="box-category-1">
+				<h3 class="sidebar-heading">POPULER ARTICLES</h3>
+				<a href="https://myanimelist.net/featured/2390/Which_Wholesome_Romance_Novel_Should_Be_Adapted_to_Manga" target="_blank"><img src="Image/Artikel 1.png" alt="" class="img-responsive"></a>
+				<div class="item-featured">
+					<h4 class="item-heading"><a href="https://myanimelist.net/featured/2390/Which_Wholesome_Romance_Novel_Should_Be_Adapted_to_Manga" target="_blank">Which Wholesome Romance Novel Should Be Adapted to Manga?</a></h4>
+				</div>
+				<div class="media-news">
+					<div class="media-item">
+						<div class="media-image">
+							<a href="https://myanimelist.net/featured/2391/Ramen_in_Anime__A_Bowl_of_Nourishment_and_Symbolism" target="_blank"><img src="Image/Artikel 2.png" alt="" class="img-responsive"></a>
+						</div>
+						<div class="media-content">
+							<h4 class="media-title"><a href="https://myanimelist.net/featured/2391/Ramen_in_Anime__A_Bowl_of_Nourishment_and_Symbolism" target="_blank">Ramen in Anime: A Bowl of Nourishment and Symbolism</a></h4>
+						</div>
+					</div>
+					<div class="media-item">
+						<div class="media-image">
+							<a href="https://myanimelist.net/featured/2375/SK8_the_Infinity__An_interview_with_Hiroko_Utsumi_and_Akemi_Hayashi" target="_blank"><img src="Image/Artikel 3.png" alt="" class="img-responsive"></a>
+						</div>
+						<div class="media-content">
+							<h4 class="media-title"><a href="https://myanimelist.net/featured/2375/SK8_the_Infinity__An_interview_with_Hiroko_Utsumi_and_Akemi_Hayashi" target="_blank">SK8 the Infinity: An interview with Hiroko Utsumi and Akemi Hayashi</a></h4>
+						</div>
+					</div>
+					<div class="media-item">
+						<div class="media-image">
+							<a href="https://myanimelist.net/featured/2384/My_Dress-Up_Darling__An_Interview_with_the_Director_Part_1" target="_blank"><img src="Image/Artikel 4.png" alt="" class="img-responsive"></a>
+						</div>
+						<div class="media-content">
+							<h4 class="media-title"><a href="https://myanimelist.net/featured/2384/My_Dress-Up_Darling__An_Interview_with_the_Director_Part_1" target="_blank">My Dress-Up Darling: An Interview with the Director, Part 1</a></h4>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="box-adsvertising">
+				<img src="Image/hololive 2.webp" alt="" class="img-responsive">
+			</div>
+			<div class="box-category-1">
+                <br><br>
+				<a href="https://myanimelist.net/featured/2379/What_Made_Wonder_Egg_Priority_Such_a_Special_Anime_Part_1" target="_blank"><img src="Image/Artikel 5.png" alt="" class="img-responsive"></a>
+				<div class="item-featured">
+					<h4 class="item-heading"><a href="https://myanimelist.net/featured/2379/What_Made_Wonder_Egg_Priority_Such_a_Special_Anime_Part_1" target="_blank">What Made Wonder Egg Priority Such a Special Anime, Part 1</a></h4>
+				</div>
+				<div class="media-news">
+					<div class="media-item">
+						<div class="media-image">
+							<a href="https://myanimelist.net/featured/2363/Shirobako__The_Movie_-_A_Conversation" target="_blank"><img src="Image/Artikel 6.png" alt="" class="img-responsive"></a>
+						</div>
+						<div class="media-content">
+							<h4 class="media-title"><a href="https://myanimelist.net/featured/2363/Shirobako__The_Movie_-_A_Conversation" target="_blank">Shirobako: The Movie - A Conversation</a></h4>
+						</div>
+					</div>
+					<div class="media-item">
+						<div class="media-image">
+							<a href="https://myanimelist.net/featured/2348/Why_Anime_Fans_Will_Love_the_Final_Fantasy_Games" target="_blank"><img src="Image/Artikel 7.png" alt="" class="img-responsive"></a>
+						</div>
+						<div class="media-content">
+							<h4 class="media-title"><a href="https://myanimelist.net/featured/2348/Why_Anime_Fans_Will_Love_the_Final_Fantasy_Games" target="_blank">Top  >  Featured Articles  >  Why Anime Fans Will Love the F...
+								Why Anime Fans Will Love the Final Fantasy Games</a></h4>
+						</div>
+					</div>
+					<div class="media-item">
+						<div class="media-image">
+							<a href="https://myanimelist.net/featured/2338/Everything_You_Need_to_Know_About_Sword_Art_Online__Progressive"><img src="Image/Artikel 8.png" alt="" class="img-responsive"></a>
+						</div>
+						<div class="media-content">
+							<h4 class="media-title"><a href="https://myanimelist.net/featured/2338/Everything_You_Need_to_Know_About_Sword_Art_Online__Progressive" target="_blank">Everything You Need to Know About Sword Art Online: Progressive</a></h4>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="box-adsvertising">
+				<img src="Image/Kamado.jpg" alt="" class="img-responsive">
+			</div>
+			<div class="box-category-1">
+				<h3 class="sidebar-heading"> MANGA RECOMMENDATIONS </h3> 
+				<div class="media-news">
+					<div class="media-item">
+						<div class="media-image">
+							<a href="https://myanimelist.net/manga/13/One_Piece" target="_blank"><img src="Image/one piece (manga).jpg" alt="" class="img-responsive"></a>
+						</div>
+						<div class="media-content">
+							<h4 class="media-title"><a href="https://myanimelist.net/manga/13/One_Piece" target="_blank">One Piece</a></h4>
+						</div>
+					</div>
+					<div class="media-item">
+						<div class="media-image">
+							<a href="https://myanimelist.net/manga/51/Slam_Dunk" target="_blank"><img src="Image/slam dunk (manga).jpg" alt="" class="img-responsive"></a>
+						</div>
+						<div class="media-content">
+							<h4 class="media-title"><a href="https://myanimelist.net/manga/51/Slam_Dunk" target="_blank">Slam Dunk</a></h4>
+						</div>
+					</div>
+					<div class="media-item">
+						<div class="media-image">
+							<a href="https://myanimelist.net/manga/25/Fullmetal_Alchemist" target="_blank"><img src="Image/FMA (manga).jpg" alt="" class="img-responsive"></a>
+						</div>
+						<div class="media-content">
+							<h4 class="media-title"><a href="https://myanimelist.net/manga/25/Fullmetal_Alchemist" target="_blank">Fullmetal Alchemist</a></h4>
+						</div>
+					</div>
+					<div class="media-item">
+						<div class="media-image">
+							<a href="https://myanimelist.net/manga/70345/Grand_Blue" target="_blank"><img src="Image/grand blue (manga).jpg" alt="" class="img-responsive"></a>
+						</div>
+						<div class="media-content">
+							<h4 class="media-title"><a href="https://myanimelist.net/manga/70345/Grand_Blue" target="_blank">Grand Blue</a></h4>
+						</div>
+					</div>
+					<div class="media-item">
+						<div class="media-image">
+							<a href="https://myanimelist.net/manga/90125/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen" target="_blank"><img src="Image/kaguya (manga).jpg" alt="" class="img-responsive"></a>
+						</div>
+						<div class="media-content">
+							<h4 class="media-title"><a href="https://myanimelist.net/manga/90125/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen" target="_blank">Kaguya-sama wa Kokuraseta:Tensai-tachi no Renai Zunousen</a></h4>
+						</div>
+					</div>
+					<div class="media-item">
+						<div class="media-image">
+							<a href="https://myanimelist.net/manga/70261/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu" target="_blank"><img src="Image/mushoko tensei (manga).jpg" alt="" class="img-responsive"></a>
+						</div>
+						<div class="media-content">
+							<h4 class="media-title"><a href="https://myanimelist.net/manga/70261/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu" target="_blank">Mushoku Tensei:Isekai Ittara Honki Dasu</a></h4>
+						</div>
+					</div>
+					<div class="media-item">
+						<div class="media-image">
+							<a href="https://myanimelist.net/manga/126287/Sousou_no_Frieren" target="_blank"><img src="Image/fren (manga).jpg" alt="" class="img-responsive"></a>
+						</div>
+						<div class="media-content">
+							<h4 class="media-title"><a href="https://myanimelist.net/manga/126287/Sousou_no_Frieren" target="_blank">Sousou no Frieren</a></h4>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<footer>
+		<div class="container">	
+			<div class="navigation-footer">	
+				<ul class="navigation">
+					<li><a href="signup.php">Sign up</a></li>
+					<li><a href="">Contact</a></li>
+					<li><a href="">DISCLAIMER</a></li>
+				</ul>
+				<ul class="social-icon pull-right">
+					<li><a href=""><img src="public/image/component/facebook.png" alt=""></a></li>
+					<li><a href=""><img src="public/image/component/twitter.png" alt=""></a></li>
+					<li><a href=""><img src="public/image/component/gplus.png" alt=""></a></li>
+					<li><a href=""><img src="public/image/component/youtube.png" alt=""></a></li>
+					<li><a href=""><img src="public/image/component/instagram.png" alt=""></a></li>
+				</ul>
+			</div>
+		</div>
+	</footer>
+
+	<!-- NAVBAR STICKY -->
+
+	<nav class="navbar navbar-default" id="sticky-navbar" style="background-color: white; margin-top: 0px;">
+	  	<div class="container navbar-sticky">
+	     	<div class="collapse navbar-collapse">
+	    		<ul class="nav navbar-nav navbar-primary text-center">
+	    			<li><a href="" class="sticky-logo"><img src="Image/TimeGate Remove BG.png" alt="Logo Timagate" class="main-logo"></a></li>
+					<li><a href="home.php">Home</a></li>
+					<li><a href="otaku.php">Otaku</a></li>
+					<li><a href="event.php">Event</a></li>
+					<li><a href="anime.php">Anime</a></li>
+					<li><a href="login.php">Login</a></li>
+					<li><a href="signup.php">Sign up</a></li>
+	    		</ul>
+	     	</div>
+	  	</div>
+	</nav>
+
+
+	<script src="public/theme/js/jquery-3.2.1.min.js"></script>
+	<script src="public/bootstraps/js/bootstrap.min.js"></script>
+	<script src="public/theme/js/main.js"></script>
+	<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=59227929b27f700011ad0da3&product=inline-share-buttons' async='async'></script>
+</body>
+</html>
+
